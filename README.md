@@ -1,5 +1,7 @@
 # duatmode ![License: GPL-3.0-or-later](https://img.shields.io/badge/license-GPL--3.0--or--later-blue) [![duatmode on crates.io](https://img.shields.io/crates/v/duatmode)](https://crates.io/crates/duatmode) [![duatmode on docs.rs](https://docs.rs/duatmode/badge.svg)](https://docs.rs/duatmode) [![Source Code Repository](https://img.shields.io/badge/Code-On%20GitHub-blue?logo=GitHub)](https://github.com/AhoyISki/duat/tree/master/duatmode)
 
+**This crate has been transferred to the duat monorepo, as such, this repository is now archived**
+
 `duatmode` is the default mode for the Duat text editor. It is
 based on [kakoune][__link0]’s keybindings, with some alterations of my own.
 
